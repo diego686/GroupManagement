@@ -1,0 +1,14 @@
+D:\dev\GroupManagement\GroupManagement.Web\bin\Debug\netcoreapp2.2\GroupManagement.Web.deps.json
+D:\dev\GroupManagement\GroupManagement.Web\bin\Debug\netcoreapp2.2\GroupManagement.Web.runtimeconfig.json
+D:\dev\GroupManagement\GroupManagement.Web\bin\Debug\netcoreapp2.2\GroupManagement.Web.runtimeconfig.dev.json
+D:\dev\GroupManagement\GroupManagement.Web\bin\Debug\netcoreapp2.2\GroupManagement.Web.dll
+D:\dev\GroupManagement\GroupManagement.Web\bin\Debug\netcoreapp2.2\GroupManagement.Web.pdb
+D:\dev\GroupManagement\GroupManagement.Web\obj\Debug\netcoreapp2.2\GroupManagement.Web.csprojAssemblyReference.cache
+D:\dev\GroupManagement\GroupManagement.Web\obj\Debug\netcoreapp2.2\GroupManagement.Web.csproj.CoreCompileInputs.cache
+D:\dev\GroupManagement\GroupManagement.Web\obj\Debug\netcoreapp2.2\GroupManagement.Web.RazorAssemblyInfo.cache
+D:\dev\GroupManagement\GroupManagement.Web\obj\Debug\netcoreapp2.2\GroupManagement.Web.RazorAssemblyInfo.cs
+D:\dev\GroupManagement\GroupManagement.Web\obj\Debug\netcoreapp2.2\GroupManagement.Web.AssemblyInfoInputs.cache
+D:\dev\GroupManagement\GroupManagement.Web\obj\Debug\netcoreapp2.2\GroupManagement.Web.AssemblyInfo.cs
+D:\dev\GroupManagement\GroupManagement.Web\obj\Debug\netcoreapp2.2\GroupManagement.Web.RazorTargetAssemblyInfo.cache
+D:\dev\GroupManagement\GroupManagement.Web\obj\Debug\netcoreapp2.2\GroupManagement.Web.dll
+D:\dev\GroupManagement\GroupManagement.Web\obj\Debug\netcoreapp2.2\GroupManagement.Web.pdb
